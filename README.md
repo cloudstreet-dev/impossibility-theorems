@@ -34,4 +34,4 @@ Thanks to Georgiy Treyvus, CloudStreet Product Manager, for the idea for this bo
 
 ## License
 
-[MIT](LICENSE)
+[CC0](LICENSE)
