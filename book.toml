@@ -1,0 +1,13 @@
+[book]
+authors = ["CloudStreet"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Impossibility Theorems"
+description = "A deep dive into the fundamental limits of computation, logic, and systems — Gödel, Turing, Arrow, CAP, and beyond."
+
+[output.html]
+default-theme = "coal"
+preferred-dark-theme = "coal"
+git-repository-url = "https://github.com/cloudstreet-dev/impossibility-theorems"
+edit-url-template = "https://github.com/cloudstreet-dev/impossibility-theorems/edit/main/{path}"
