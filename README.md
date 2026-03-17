@@ -28,6 +28,10 @@ Install [mdBook](https://rust-lang.github.io/mdBook/guide/installation.html), th
 mdbook serve --open
 ```
 
+## Acknowledgements
+
+Thanks to Georgiy Treyvus, CloudStreet Product Manager, for the idea for this book.
+
 ## License
 
 [MIT](LICENSE)
